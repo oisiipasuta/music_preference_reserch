@@ -1,0 +1,27 @@
+.ipynb_checkpoints/
+
+# data / audio
+music_norm_mp3/
+music_norm_wav/
+*.csv
+*.xlsx
+*.wav
+*.mp3
+*.mp4
+
+# models / outputs
+*.pkl
+*.joblib
+*.h5
+models/
+outputs/
+results/
+
+# Python
+__pycache__/
+*.pyc
+
+# env
+.env
+venv/
+.venv/

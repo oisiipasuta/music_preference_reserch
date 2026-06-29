@@ -348,7 +348,7 @@ total_sec = 32
 window_sec = 4
 step_sec = 0.1
 
-BASE_DIR = Path(r"任意のディレクトリパスを指定してください")  # 例: Path("C:/Users/username/Documents")
+BASE_DIR = Path(r"C:\Users\koyamaharuki\OneDrive\デスクトップ\vscode\研究用")  # 例: Path("C:/Users/username/Documents")
 AUDIO_DIR = BASE_DIR / "music_norm_wav"
 
 sliding_features_list = []
